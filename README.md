@@ -1,4 +1,4 @@
 # SchoolDetailEvaluation_Prediction_SVC
 DetailEvaluation_Prediction_by_SVC
 
-校舍耐震詳細評估耐震能力預測評估
+校舍耐震能力詳細評估預測評估
