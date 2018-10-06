@@ -1,0 +1,2 @@
+# SchoolDetailEvaluation_Prediction_SVC
+DetailEvaluation_Prediction_by_SVC
